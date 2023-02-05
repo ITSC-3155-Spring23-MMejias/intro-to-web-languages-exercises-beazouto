@@ -1,0 +1,13 @@
+body{
+    color: brown;
+    font: 200;
+    background-color: bisque;
+}
+
+h1.main-title{
+    text-align: center;
+}
+
+p.content{
+    margin-bottom: 12px;
+}
